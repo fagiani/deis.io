@@ -6,7 +6,7 @@ This is the source code for our publicly viewable website, http://deis.io.
 
 If you see a typo or something outdated on our website, send us a pull request!
 
-To run the website locally for development:
+To run the website locally for development, assuming you have ruby version listed in `.ruby-version` file (see [rbenv](https://github.com/rbenv/rbenv) or [rvm](https://rvm.io/)) and [bundler](http://bundler.io/) installed:
 
     $ cd deis.io
     $ bundle install
